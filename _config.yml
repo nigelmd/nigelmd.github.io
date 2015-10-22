@@ -4,6 +4,7 @@ email: nigeldsouza@outlook.com
 description: Hit me up if you find anything interesting
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nigeldsouza.io" # the base hostname & protocol for your site
+tracking_id: 'UA-61051773-3'
 twitter_username: nigelmd
 github_username:  xcrucifier
 facebook_username: nigeld
