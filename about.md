@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Hi, I'm [Nigel D'Souza](http://nigeldsouza.io), a developer and tech enthusiast, currently pursuing my Masters in Computer Science at DePaul University.
-I love learning new concepts and technologies and meeting new people. In my free time I enjoy playing basketball, video games, dancing, skating and drumming.
+I love learning new concepts, technologies and meeting new people. In my free time I enjoy playing basketball, video games, dancing, skating, drumming and all outdoor activities.
 
 You can tweet me on Twitter at [@nigelmd](http://twitter.com/nigelmd), view my [Github](http://github.com/xcrucifier) page, contact me on [LinkedIn](http://linkedin.com/in/nigelmd) or just [email me](mailto:nigeldsouza@outlook.com).
 
