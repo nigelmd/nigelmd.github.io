@@ -31,7 +31,7 @@ jQuery(document).ready(function($) {
             softwares: function() {
                 this.echo('');
                 this.echo('Mac OSX');
-                this.echo('Z shell');
+                this.echo('ZSH');
                 this.echo('Windows');
                 this.echo('Linux(Ubuntu, Redhat)');
                 this.echo('All Jetbrains products');
