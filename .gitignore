@@ -35,22 +35,5 @@
 .Trashes
 Thumbs.db
 
-# IDE generated files
-.idea/*
-
-*.pydevproject
-.metadata
-.gradle
-bin/
-tmp/
-*.tmp
-*.bak
-*.swp
-*~.nib
-local.properties
-.settings/
-.loadpath
-
-#Jekyll Specific
 _site/
 .sass-cache/
