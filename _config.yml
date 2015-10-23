@@ -10,7 +10,13 @@ analytics :
       tracking_id : 'UA-61051773-3'
 twitter_username: nigelmd
 github_username:  xcrucifier
-facebook_username: nigeld
+
+gems:
+  - jekyll
+  - kramdown
+  # - jekyll-watch
+  # - redcarpet
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
