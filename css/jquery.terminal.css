@@ -20,6 +20,8 @@
 }
 .cmd > .clipboard {
     position: fixed;
+    float: left;
+    width: 100%;
 }
 .terminal {
     padding: 20px 5px;
