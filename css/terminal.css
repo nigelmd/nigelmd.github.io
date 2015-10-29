@@ -1,8 +1,8 @@
-#terminal {
+.terminal-container {
     background-image: url("../images/terminal.png");
     background-repeat: no-repeat;
-    background-size: contain;
-    /*background-size: cover;*/
-    border-radius: 5.5px 5.5px;
+    background-size: cover;
+    border-radius: 5.5px 5.5px 0px 0px;
+    height: 20px;
     width: 100%;
 }
