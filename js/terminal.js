@@ -3,11 +3,16 @@ jQuery(document).ready(function($) {
             help: function () {
                 this.echo('');
                 this.echo('[[;#E2462A;#000]profiles]         all my social profiles');
+                this.echo('[[;#03A9F4;#000]about]            about me');
                 this.echo('[[;#D4E22A;#000]languages]        programming languages of course');
                 this.echo('[[;#2AE27F;#000]softwares]        software I use');
                 this.echo('[[;#2ACEE2;#000]pgp]              send me something encrypted');
                 this.echo('');
                 this.echo('[[;#E22AD1;#000]clear]          clears the console');
+            },
+            about: function() {
+                this.echo('');
+                this.echo ("About me(Or just click on the top right corner)        " + window.location.href +"about");
             },
             profiles: function() {
                 this.echo('');
