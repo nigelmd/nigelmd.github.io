@@ -48,8 +48,8 @@ jQuery(document).ready(function($) {
             },
             pgp: function() {
                 this.echo('');
-                this.echo('PGP              http://pgp.mit.edu/pks/lookup?search=0x6C8571E9');
-                this.echo('Fingerprint      9B87 856A 6C85 71E9');
+                this.echo('PGP              http://pgp.mit.edu/pks/lookup?search=0x2FD7CF9A');
+                this.echo('Fingerprint      C679 3303 2FD7 CF9A');
                 this.echo('');
             }
         },
