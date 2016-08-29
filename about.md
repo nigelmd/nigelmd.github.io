@@ -9,6 +9,6 @@ I love learning new concepts, technologies and meeting new people. In my free ti
 
 You can tweet to me at [@nigelmd](http://twitter.com/nigelmd), view my [Github](http://github.com/xcrucifier) page, contact me on [LinkedIn](http://linkedin.com/in/nigelmd) or just [email me](mailto:nigeldsouza@outlook.com).
 
-If you want to take a look at some of the projects I've worked on, why don't you [download my CV](https://www.dropbox.com/s/3fkvkglar38bw9m/Nigel%20D'Souza%20CV%20Technical%20Revised.pdf?dl=0). I keep it updated all the time.
+If you want a copy of my resumé why don't you e-mail me and I'll be happy to provide it to you.
 
 My PGP [KeyId](http://pgp.mit.edu/pks/lookup?search=0x2FD7CF9A) and Fingerprint [C679 3303 2FD7 CF9A](https://keybase.io/xcrucifier)
