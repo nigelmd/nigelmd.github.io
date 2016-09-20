@@ -16,7 +16,7 @@ jQuery(document).ready(function($) {
             },
             profiles: function() {
                 this.echo('');
-                this.echo("Github           http://github.com/xcrucifier");
+                this.echo("Github           http://github.com/nigelmd");
                 this.echo("Twitter          http://twitter.com/nigelmd");
                 this.echo("LinkedIn         http://linkedin.com/in/nigelmd");
                 this.echo("Keybase          http://keybase.io/xcrucifier");
