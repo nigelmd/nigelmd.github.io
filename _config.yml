@@ -9,7 +9,7 @@ analytics :
   google :
       tracking_id : 'UA-61051773-3'
 twitter_username: nigelmd
-github_username:  xcrucifier
+github_username:  nigelmd
 
 gems:
   - jekyll
