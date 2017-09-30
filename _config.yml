@@ -1,6 +1,5 @@
 # Site settings
 title: Nigel D'Souza
-email: nigeldsouza@outlook.com
 description: Hit me up if you find anything interesting
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://nigeldsouza.io" # the base hostname & protocol for your site
