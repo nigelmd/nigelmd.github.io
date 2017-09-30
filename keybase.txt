@@ -1,54 +1,55 @@
 ==================================================================
-https://keybase.io/xcrucifier
+https://keybase.io/ndsouza
 --------------------------------------------------------------------
 
 I hereby claim:
 
   * I am an admin of http://nigeldsouza.io
-  * I am xcrucifier (https://keybase.io/xcrucifier) on keybase.
-  * I have a public key ASDEwvAyzp86gjUz2mNAhez78Q3yvk2dR7slw30-yi5wzQo
+  * I am ndsouza (https://keybase.io/ndsouza) on keybase.
+  * I have a public key ASBHoOMz9X9kGgvL7RKMGgJdcfDpg20sevHsFwXAVl7L7wo
 
 To do so, I am signing this object:
 
 {
-    "body": {
-        "key": {
-            "eldest_kid": "0120c4c2f032ce9f3a823533da634085ecfbf10df2be4d9d47bb25c37d3eca2e70cd0a",
-            "host": "keybase.io",
-            "kid": "0120c4c2f032ce9f3a823533da634085ecfbf10df2be4d9d47bb25c37d3eca2e70cd0a",
-            "uid": "2229e3fa8137295da8449c605ce17819",
-            "username": "xcrucifier"
-        },
-        "service": {
-            "hostname": "nigeldsouza.io",
-            "protocol": "http:"
-        },
-        "type": "web_service_binding",
-        "version": 1
+  "body": {
+    "key": {
+      "eldest_kid": "012047a0e333f57f641a0bcbed128c1a025d71f0e9836d2c7af1ec1705c0565ecbef0a",
+      "host": "keybase.io",
+      "kid": "012047a0e333f57f641a0bcbed128c1a025d71f0e9836d2c7af1ec1705c0565ecbef0a",
+      "uid": "59e168d6a2969eada21ac38665b43819",
+      "username": "ndsouza"
     },
-    "client": {
-        "name": "keybase.io go client",
-        "version": "1.0.14"
-    },
-    "ctime": 1460091378,
-    "expire_in": 504576000,
     "merkle_root": {
-        "ctime": 1460091263,
-        "hash": "505494e4a21c239a978c3da3ee3a94318dfd1d9fc62b41e6b351ee1ae6cb58624a9889ad34596d364664df10440137ec0f1a4ff2460a6afa4ca79659cd511049",
-        "seqno": 435216
+      "ctime": 1506746623,
+      "hash": "c28ac4037064e917ed02c6b09f360a6089101d17235a831c46787f660c51d7186baae6bbc02f7dc70f613a3f4ab22d4b1388b97782fd22011fb2622cac8f4385",
+      "hash_meta": "95117beddf417fe0351e79a130f85241315cd18c37f62c105b256b4730717f7c",
+      "seqno": 1478560
     },
-    "prev": "79a9e5fe5063a43c715ad6a03b792e7aa3e95199ea14af792876107c61dcd880",
-    "seqno": 24,
-    "tag": "signature"
+    "service": {
+      "hostname": "nigeldsouza.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.31"
+  },
+  "ctime": 1506746633,
+  "expire_in": 504576000,
+  "prev": "d3b8fdff7fa257da10318c2b29d6623d5ba871101ef2e0065e6219c6c6bff1c1",
+  "seqno": 15,
+  "tag": "signature"
 }
 
 which yields the signature:
 
-g6Rib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgxMLwMs6fOoI1M9pjQIXs+/EN8r5NnUe7JcN9PsoucM0Kp3BheWxvYWTFAvh7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYzRjMmYwMzJjZTlmM2E4MjM1MzNkYTYzNDA4NWVjZmJmMTBkZjJiZTRkOWQ0N2JiMjVjMzdkM2VjYTJlNzBjZDBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYzRjMmYwMzJjZTlmM2E4MjM1MzNkYTYzNDA4NWVjZmJmMTBkZjJiZTRkOWQ0N2JiMjVjMzdkM2VjYTJlNzBjZDBhIiwidWlkIjoiMjIyOWUzZmE4MTM3Mjk1ZGE4NDQ5YzYwNWNlMTc4MTkiLCJ1c2VybmFtZSI6InhjcnVjaWZpZXIifSwic2VydmljZSI6eyJob3N0bmFtZSI6Im5pZ2VsZHNvdXphLmlvIiwicHJvdG9jb2wiOiJodHRwOiJ9LCJ0eXBlIjoid2ViX3NlcnZpY2VfYmluZGluZyIsInZlcnNpb24iOjF9LCJjbGllbnQiOnsibmFtZSI6ImtleWJhc2UuaW8gZ28gY2xpZW50IiwidmVyc2lvbiI6IjEuMC4xNCJ9LCJjdGltZSI6MTQ2MDA5MTM3OCwiZXhwaXJlX2luIjo1MDQ1NzYwMDAsIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNDYwMDkxMjYzLCJoYXNoIjoiNTA1NDk0ZTRhMjFjMjM5YTk3OGMzZGEzZWUzYTk0MzE4ZGZkMWQ5ZmM2MmI0MWU2YjM1MWVlMWFlNmNiNTg2MjRhOTg4OWFkMzQ1OTZkMzY0NjY0ZGYxMDQ0MDEzN2VjMGYxYTRmZjI0NjBhNmFmYTRjYTc5NjU5Y2Q1MTEwNDkiLCJzZXFubyI6NDM1MjE2fSwicHJldiI6Ijc5YTllNWZlNTA2M2E0M2M3MTVhZDZhMDNiNzkyZTdhYTNlOTUxOTllYTE0YWY3OTI4NzYxMDdjNjFkY2Q4ODAiLCJzZXFubyI6MjQsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAl+9zpL7yMN+HXPLxGZaDdG94VLAdUcTKoMYKi5ejN8c0bXSyGy+cxJbRyef8vDLJ5Y4CjfnfV1UvHO8EQoR+AahzaWdfdHlwZSCjdGFnzQICp3ZlcnNpb24B
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgR6DjM/V/ZBoLy+0SjBoCXXHw6YNtLHrx7BcFwFZey+8Kp3BheWxvYWTFA0V7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwNDdhMGUzMzNmNTdmNjQxYTBiY2JlZDEyOGMxYTAyNWQ3MWYwZTk4MzZkMmM3YWYxZWMxNzA1YzA1NjVlY2JlZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwNDdhMGUzMzNmNTdmNjQxYTBiY2JlZDEyOGMxYTAyNWQ3MWYwZTk4MzZkMmM3YWYxZWMxNzA1YzA1NjVlY2JlZjBhIiwidWlkIjoiNTllMTY4ZDZhMjk2OWVhZGEyMWFjMzg2NjViNDM4MTkiLCJ1c2VybmFtZSI6Im5kc291emEifSwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE1MDY3NDY2MjMsImhhc2giOiJjMjhhYzQwMzcwNjRlOTE3ZWQwMmM2YjA5ZjM2MGE2MDg5MTAxZDE3MjM1YTgzMWM0Njc4N2Y2NjBjNTFkNzE4NmJhYWU2YmJjMDJmN2RjNzBmNjEzYTNmNGFiMjJkNGIxMzg4Yjk3NzgyZmQyMjAxMWZiMjYyMmNhYzhmNDM4NSIsImhhc2hfbWV0YSI6Ijk1MTE3YmVkZGY0MTdmZTAzNTFlNzlhMTMwZjg1MjQxMzE1Y2QxOGMzN2Y2MmMxMDViMjU2YjQ3MzA3MTdmN2MiLCJzZXFubyI6MTQ3ODU2MH0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJuaWdlbGRzb3V6YS5pbyIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMzEifSwiY3RpbWUiOjE1MDY3NDY2MzMsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJwcmV2IjoiZDNiOGZkZmY3ZmEyNTdkYTEwMzE4YzJiMjlkNjYyM2Q1YmE4NzExMDFlZjJlMDA2NWU2MjE5YzZjNmJmZjFjMSIsInNlcW5vIjoxNSwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEDtMrODwHxrrdedf4nVfpB133qOmHb1AyicIVfmzgHmEoh14cPIf3AZm3DUSKG1ijjU7EwOBFVb9C8N2sHF/tYFqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgwK1M1bxcp+FBc/RM4ureRTden09vECmryuk9d5t48FqjdGFnzQICp3ZlcnNpb24B
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
-View my publicly-auditable identity here: https://keybase.io/xcrucifier
+View my publicly-auditable identity here: https://keybase.io/ndsouza
 
 ==================================================================
