@@ -16,10 +16,10 @@ jQuery(document).ready(function($) {
             },
             profiles: function() {
                 this.echo('');
-                this.echo("Github           http://github.com/nigelmd");
-                this.echo("Twitter          http://twitter.com/nigelmd");
-                this.echo("LinkedIn         http://linkedin.com/in/nigelmd");
-                this.echo("Keybase          http://keybase.io/ndsouza");
+                this.echo("Github           https://github.com/nigelmd");
+                this.echo("Twitter          https://twitter.com/nigelmd");
+                this.echo("LinkedIn         https://linkedin.com/in/nigelmd");
+                this.echo("Keybase          https://keybase.io/ndsouza");
                 this.echo('');
             },
             languages: function() {
@@ -43,7 +43,7 @@ jQuery(document).ready(function($) {
             },
             pgp: function() {
                 this.echo('');
-                this.echo('PGP              http://pgp.mit.edu/pks/lookup?search=0x36F3399A');
+                this.echo('PGP              https://pgp.mit.edu/pks/lookup?search=0x36F3399A');
                 this.echo('Fingerprint      E3EC ABC0 36F3 399A');
                 this.echo('');
             }
