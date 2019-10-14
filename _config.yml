@@ -19,3 +19,5 @@ gems:
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-dinky
