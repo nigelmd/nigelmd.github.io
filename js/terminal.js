@@ -52,7 +52,7 @@ jQuery(document).ready(function($) {
             prompt: 'guest@nigeldsouza> ',
             name: 'Nigel\'s Terminal',
             height: 400,
-            enabled: true,
+            enabled: false,
             greetings: 'Hi, welcome to my website. Type [[;#2AE24C;#000]help] for more options',
             history: true,
             cookie: true,
@@ -62,11 +62,7 @@ jQuery(document).ready(function($) {
                     return false;
                 }
             },
-            tabcomplete: function() { return ""; }
+            //tabcomplete: function() { return ""; }
+            onInit: function(term) { }
         });
-
-    $(document).on('click', '.exec', function() {
-       $.terminal.active().exec($(this).text());
-    })
-    $.terminal.active().echo('[[u;;;exec]info]');
 });
