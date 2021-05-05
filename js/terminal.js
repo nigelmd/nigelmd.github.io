@@ -34,11 +34,7 @@ jQuery(document).ready(function($) {
             },
             projects: function() {
                 this.echo('');
-                this.echo('Space Invaders');
-                this.echo('Omega Race Multiplayer');
-                this.echo('Audio Engine');
-                this.echo('Multi-threaded music player');
-                this.echo('Multi-threaded maze solver');
+                this.echo('I got tired of updating this')
                 this.echo('');
             },
             pgp: function() {
@@ -57,12 +53,13 @@ jQuery(document).ready(function($) {
             history: true,
             cookie: true,
             exit: true,
-            keypress: function(e) {
-                if (e.which == 96) {
-                    return false;
-                }
-            },
+            completion: false,
+            //keypress: function(e) {
+                //if (e.which == 96) {
+                    //return false;
+                //}
+            //},
             //tabcomplete: function() { return ""; }
-            onInit: function(term) { }
+            //onInit: function(term) { }
         });
 });
