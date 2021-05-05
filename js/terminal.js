@@ -64,4 +64,9 @@ jQuery(document).ready(function($) {
             },
             tabcomplete: function() { return ""; }
         });
+
+    $(document).on('click', '.exec', function() {
+       $.terminal.active().exec($(this).text());
+    })
+    $.terminal.active().echo('[[u;;;exec]info]');
 });
