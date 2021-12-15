@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm [Nigel D'Souza](https://www.nigeldsouza.io), a software engineer, currently working at Oracle.
-I love learning new concepts, technologies and meeting new people. In my free time I enjoy playing basketball, video games, dancing, skating, drumming and all outdoor activities.
+Hi, I'm [Nigel D'Souza](https://www.nigeldsouza.io), a software engineer, currently working at Tiktok.
+Aside from technology, I love scuba diving, basketball, video games, dancing, skating, drumming and all outdoor activities with my dog.
 
 You can tweet to me at [@nigelmd](https://twitter.com/nigelmd), view my [Github](https://github.com/nigelmd) page, contact me on [LinkedIn](https://linkedin.com/in/nigelmd).
 
