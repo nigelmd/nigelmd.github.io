@@ -17,7 +17,7 @@ jQuery(document).ready(function($) {
             profiles: function() {
                 this.echo('');
                 this.echo("Github           https://github.com/nigelmd");
-                this.echo("Twitter          https://twitter.com/nigelmd");
+                this.echo("Threads          https://www.threads.net/@nigelmd");
                 this.echo("LinkedIn         https://linkedin.com/in/nigelmd");
                 this.echo("Keybase          https://keybase.io/ndsouza");
                 this.echo('');
@@ -28,7 +28,6 @@ jQuery(document).ready(function($) {
                 this.echo('C/C++');
                 this.echo('PHP');
                 this.echo('Java');
-                this.echo('Scala');
                 this.echo('JavaScript');
                 this.echo('');
             },
