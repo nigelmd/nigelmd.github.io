@@ -11,13 +11,18 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-  <script src="../js/jquery-1.7.1.min.js"></script>
-  <script src="../js/jquery.mousewheel-min.js"></script>
+  <!-- <script src="../js/jquery-1.7.1.min.js"></script> -->
+  <!-- <script src="../js/jquery.mousewheel-min.js"></script> -->
   <!--<script src="../js/jquery.terminal-min.js"></script>-->
   <!--<link href="../css/jquery.terminal.css" rel="stylesheet"/>-->
-  <script src="../js/jquery.terminal-2.23.2.min.js"></script>
-  <link href="../css/jquery.terminal-2.23.2.min.css" rel="stylesheet"/>
-  <link href="../css/terminal.css" rel="stylesheet"/>
+  <!-- <script src="../js/jquery.terminal-2.23.2.min.js"></script> -->
+  <!-- <link href="../css/jquery.terminal-2.23.2.min.css" rel="stylesheet"/> -->
+  <!-- <link href="../css/terminal.css" rel="stylesheet"/> -->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="https://unpkg.com/js-polyfills/keyboard.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/jcubic/static/js/wcwidth.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/jcubic/jquery.terminal@devel/js/jquery.terminal.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/gh/jcubic/jquery.terminal@devel/css/jquery.terminal.min.css" rel="stylesheet"/>
 
   <!--[if IE]>
   <style>

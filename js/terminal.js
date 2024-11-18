@@ -11,8 +11,26 @@ jQuery(document).ready(function($) {
                 this.echo('[[;#E22AD1;#000]clear]          clears the console');
             },
             about: function() {
-                this.echo('');
-                this.echo ("About me(Or just click on the top right corner)        " + window.location.href +"about");
+                this.echo("");
+                this.echo('Hi, I\'m Nigel D\'Souza, an experienced software engineer, worked at Tiktok, Oracle and a digital agency.');
+                this.echo("");
+                this.echo("I'm currently the founder of a stealth startup in the fintech space so keep an eye out for updates.");
+                this.echo("");
+                this.echo('Aside from technology, I love scuba diving, basketball, video games, dancing, skating, drumming and all outdoor activities with my dog.');
+                this.echo("");
+                this.echo("Tweet to me on threads: https://www.threads.net/@nigelmd or bluesky: https://bsky.app/profile/nigelmd.bsky.social" );
+                this.echo("");
+                this.echo("View my github profile: https://github.com/nigelmd or contact me on LinkedIn: https://linkedin.com/in/nigelmd");
+                this.echo("");
+                this.echo("Visit my photography website: https://legindary.photos");
+                this.echo("");
+                this.echo("If you need to send me something encrypted or need to verify my identity:");
+                this.echo("");
+                this.echo('My PGP Key: https://pgp.mit.edu/pks/lookup?search=0x36F3399A and Fingerprint: E3EC ABC0 36F3 399A');
+                this.echo("");
+                this.echo("Or view all my verifications on keybase: https://keybase.io/ndsouza");
+                this.echo("");
+                this.echo ("If you don't want to read this in the terminal and prefer a page, just click this or the top right corner: " + window.location.href +"about");
             },
             profiles: function() {
                 this.echo('');
@@ -20,6 +38,7 @@ jQuery(document).ready(function($) {
                 this.echo("Threads          https://www.threads.net/@nigelmd");
                 this.echo("LinkedIn         https://linkedin.com/in/nigelmd");
                 this.echo("Keybase          https://keybase.io/ndsouza");
+                this.echo("Photography      https://legindary.photos")
                 this.echo('');
             },
             languages: function() {
